@@ -77,7 +77,7 @@ if __name__ == '__main__':
     if display_graph:
         plt.show()
     else:
-        plt.savefig('output_filename.png')
+        plt.savefig('Harmonic.png')
 
 
 
